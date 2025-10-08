@@ -1,0 +1,5 @@
+# @diwazz
+
+Flask
+requests
+gunicorn
